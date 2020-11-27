@@ -51,4 +51,5 @@ header{
     border-radius: 50%;
     overflow: hidden;
     cursor: pointer;
+    color: black;
 }
